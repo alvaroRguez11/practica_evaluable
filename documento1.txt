@@ -1,3 +1,4 @@
 Hola documento 1
 Nueva linea 1
 Nueva linea 2
+Cambios en mirama doc1 repClonado
